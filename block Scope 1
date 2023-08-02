@@ -1,0 +1,14 @@
+{
+console.log(a)  //cannot access
+console.log(b) //var variable giving undefined
+console.log(c) //cannot access
+
+
+let a = "Holla"
+var b = "Hellow"
+const c = "Namaste"
+
+console.log(a)
+console.log(b)
+console.log(c)
+}
